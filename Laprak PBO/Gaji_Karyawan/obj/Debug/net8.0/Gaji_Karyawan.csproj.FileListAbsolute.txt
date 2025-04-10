@@ -1,0 +1,14 @@
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\bin\Debug\net8.0\Gaji_Karyawan.exe
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\bin\Debug\net8.0\Gaji_Karyawan.deps.json
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\bin\Debug\net8.0\Gaji_Karyawan.runtimeconfig.json
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\bin\Debug\net8.0\Gaji_Karyawan.dll
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\bin\Debug\net8.0\Gaji_Karyawan.pdb
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.AssemblyInfoInputs.cache
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.AssemblyInfo.cs
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.dll
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\refint\Gaji_Karyawan.dll
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.pdb
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\Gaji_Karyawan.genruntimeconfig.cache
+C:\Users\jazil\source\repos\Laprak PBO\Gaji_Karyawan\obj\Debug\net8.0\ref\Gaji_Karyawan.dll
