@@ -6,9 +6,9 @@ namespace Laprak
 {
     class Karyawan
     {
-        private string jenis_karyawan { get; set; }
-        private string id { get; set; }
-        private double gaji_pokok { get; set; }
+        private string jenis_karyawan;
+        private string id;
+        private double gaji_pokok;
         public string Jenis_Karyawan
         {
             get { return jenis_karyawan; }
